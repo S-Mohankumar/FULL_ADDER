@@ -1,4 +1,4 @@
-![image](https://github.com/j-gugan/FULL_ADDER/assets/163828735/e489f82a-85eb-4d66-8c5d-e93ef760595c)# FULL_ADDER
+# FULL_ADDER
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/FULL_ADDER/assets/154305926/02ead8f5-d958-4c89-ac51-368ca086cf41)
 # Circuit Diagram
